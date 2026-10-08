@@ -21,7 +21,7 @@ A lightweight CLI tool built with Python to analyze and visualize GitHub user pr
 
 1. Clone the repository:
   
-   git clone [https://github.com/your-username/gh-insight.git](https://github.com/your-username/gh-insight.git)
+   git clone [https://github.com/daria999333/gh-insight.git](https://github.com/your-username/gh-insight.git)
    cd gh-insight
    
 2. Create and activate a virtual environment:
